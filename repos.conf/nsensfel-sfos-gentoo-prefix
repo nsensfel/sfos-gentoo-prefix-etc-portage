@@ -1,0 +1,5 @@
+[nsensfel-sfos-gentoo-prefix]
+location = /home/nemo/src/sfos-gentoo-prefix-overlay
+priority = 10
+sync-type = git
+sync-uri = https://github.com/nsensfel/sfos-gentoo-prefix-overlay.git

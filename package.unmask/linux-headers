@@ -1,0 +1,3 @@
+# We can use any version of the Linux headers that is newer than
+# our kernel according to https://wiki.gentoo.org/wiki/Linux-headers
+sys-kernel/linux-headers

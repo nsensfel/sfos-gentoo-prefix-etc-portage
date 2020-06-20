@@ -1,0 +1,3 @@
+# No reason to refuse these...
+sys-apps/baselayout-prefix ~arm
+*/* arm

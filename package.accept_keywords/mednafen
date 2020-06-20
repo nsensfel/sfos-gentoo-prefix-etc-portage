@@ -1,0 +1,4 @@
+# You'll need an overlay to have it work this way.
+
+# required by mednafen (argument)
+games-emulation/mednafen ~arm

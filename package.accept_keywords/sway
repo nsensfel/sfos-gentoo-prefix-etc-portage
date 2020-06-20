@@ -1,0 +1,17 @@
+# No ARM package for sway. There's a AARCH64 package, though...
+=gui-wm/sway-1.4-r2 **
+# required by gui-wm/sway-1.4-r2::gentoo[swayidle]
+# required by sway (argument)
+=gui-apps/swayidle-9999 **
+# required by gui-wm/sway-1.4-r2::gentoo[swaybg]
+# required by sway (argument)
+=gui-apps/swaybg-9999 **
+# required by gui-wm/sway-1.4-r2::gentoo[swaylock]
+# required by sway (argument)
+=gui-apps/swaylock-9999 **
+# required by gui-wm/sway-1.4-r2::gentoo
+# required by sway (argument)
+=gui-libs/wlroots-0.10.1 **
+# required by gui-wm/sway-1.4-r2::gentoo[man]
+# required by sway (argument)
+=app-text/scdoc-9999 **

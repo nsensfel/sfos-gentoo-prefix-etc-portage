@@ -1,0 +1,12 @@
+# required by www-client/firefox-77.0.1::gentoo
+# required by firefox (argument)
+>=media-libs/libpng-1.6.37 apng
+# required by www-client/firefox-77.0.1::gentoo[system-libvpx]
+# required by firefox (argument)
+>=media-libs/libvpx-1.8.2 postproc
+# required by www-client/firefox-77.0.1::gentoo
+# required by firefox (argument)
+>=dev-lang/python-2.7.18:2.7 sqlite
+# required by www-client/firefox-77.0.1::gentoo
+# required by firefox (argument)
+>=dev-lang/python-3.8.2-r2 sqlite

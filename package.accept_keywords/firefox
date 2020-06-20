@@ -1,0 +1,21 @@
+# No Firefox for the ARM architecture, apparently.
+www-client/firefox **
+
+# required by www-client/firefox-77.0.1::gentoo[system-libvpx]
+# required by firefox (argument)
+=media-libs/libvpx-1.8.2 ~arm
+# required by dev-lang/rust-1.44.0::gentoo
+# required by virtual/rust-1.44.0::gentoo
+# required by www-client/firefox-77.0.1::gentoo
+# required by firefox (argument)
+=app-eselect/eselect-rust-20200419 ~arm
+# required by www-client/firefox-77.0.1::gentoo
+# required by firefox (argument)
+=virtual/rust-1.44.0 ~arm
+# required by www-client/firefox-77.0.1::gentoo
+# required by firefox (argument)
+=dev-util/cbindgen-0.14.2 **
+# required by virtual/rust-1.44.0::gentoo
+# required by www-client/firefox-77.0.1::gentoo
+# required by firefox (argument)
+=dev-lang/rust-1.44.0 ~arm
